@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { BASE_URL } from "../../utils/request.js";
+import { BASE_URL } from "../../utils/request";
 import DatePicker from "react-datepicker";
 import NotificationButton from "../NotificationButton/index.js";
 import axios from "axios";

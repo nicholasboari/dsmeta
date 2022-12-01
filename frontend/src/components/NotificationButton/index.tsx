@@ -1,5 +1,5 @@
 import { toast } from "react-toastify";
-import { BASE_URL } from "../../utils/request.js";
+import { BASE_URL } from "../../utils/request";
 import axios from "axios";
 import icon from "../../assets/img/notification-icon.svg";
 import "./styles.css";
