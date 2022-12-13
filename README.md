@@ -55,7 +55,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd frontend
 
 # instalar dependências
 yarn 
